@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: milkbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-24 07:02+0100\n"
+"PO-Revision-Date: 2009-03-24 07:02+0100\n"
+"Last-Translator: mickael jardet <mickael.j@gmail.com>\n"
+"Language-Team: mickael jardet <mickael.j@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: milkbox.php:40
+msgid "<h3>WARNING: Your JS dir in milbox "
+msgstr ""
+
+#: milkbox.php:42
+msgid " is not writable, please fix your permissions !</h3>"
+msgstr ""
+
+#: milkbox.php:99
+msgid "<h3>WARNING:"
+msgstr ""
+
+#: milkbox.php:101
+msgid "is not writable, please fix your permissions in milkbox plugin dir !</h3> Verify permission of'"
+msgstr ""
+
+#: milkbox.php:103
+msgid "milkbox.options.js file"
+msgstr ""
+
+#: milkbox.php:129
+msgid "<h3>Preference file updated.  !</h3> Reload this page to see your modifications."
+msgstr ""
+
+#: milkbox.php:139
+msgid "<strong>Milkbox</strong> is a fantastic script created by <a href='mailto:milkbox@reghellin.com'>Luca Reghellin</a>, you can download it <a href='http://reghellin.com/milkbox'>here</a>. I have made this wordpress plugin for my own use and, finally, i decided to distribute it (with author accord)."
+msgstr "<strong>Milkbox</strong> est un script fantastic."
+
+#: milkbox.php:143
+msgid ""
+"\n"
+"\t\tIf you have any problem with this script, you can mail me <a href='mickael.j@gmail.com'>mail me</a> or visit <a href='http://www.origami43.net'>visit my site</a>.\n"
+"\t\t"
+msgstr ""
+
+#: milkbox.php:154
+msgid "default : 0.7<br />Float (0 to 1). 0.4 to 0.7 are good choices.</td></tr>"
+msgstr ""
+
+#: milkbox.php:158
+msgid "Integer. 50 good for big images: changes the offset from the top of the window.</td></tr>"
+msgstr ""
+
+#: milkbox.php:162
+#: milkbox.php:166
+msgid "default : 250<br /></td></tr>"
+msgstr ""
+
+#: milkbox.php:170
+msgid "</input> default : '0px'<br /><strong>don't write quotes</strong></td></tr>"
+msgstr ""
+
+#: milkbox.php:175
+msgid "default : '#000000'<br />Color in hexa (do not forget \"#\", <strong>don't write quotes</strong></td></tr>"
+msgstr ""
+
+#: milkbox.php:179
+msgid "default : '0px'<br /><strong>don't write quotes</strong></td></tr>"
+msgstr ""
+
+#: milkbox.php:183
+msgid "default : 500<br />Integer, no more than 1500 for best effect.</td></tr>"
+msgstr ""
+
+#: milkbox.php:193
+msgid ""
+"default : 'sine:in:out'<br /><strong>don't write quotes</strong> Not working fine at this time, \n"
+"\t\talways transition by default loaded (fixed soon).<br/> See <a target=\"new\" href=\"http://mootools.net/docs/Fx/Fx.\n"
+"\t\tTransitions\"> mootools transition doc</a> for more information.</td></tr>"
+msgstr ""
+
+#: milkbox.php:199
+msgid ""
+"default : false<br />If true, you won't see the titles contents popping up while hovering the \n"
+"\t\tMilkbox links (default behaviour of browsers like FireFox).</td></tr>"
+msgstr ""
+
+#: milkbox.php:205
+msgid "Update Options &raquo;"
+msgstr ""
+
+#: milkbox.php:208
+msgid "<p><strong>You can find the option (milkbox.options.js) file in your milkbox plugin directory, in 'js' sub directory.</strong></p>"
+msgstr ""
+
